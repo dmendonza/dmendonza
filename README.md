@@ -6,7 +6,7 @@
 </div>
 <br><br>
 Hey! My mane is Daniel 👋<br>
-🔭 I'm a Front-end studant
+🔭 I'm a Back-End && Cybersecurity studant
 <br><br>
 
 CONTACTS
